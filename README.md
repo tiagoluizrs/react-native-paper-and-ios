@@ -15,7 +15,7 @@
 Use official component kits provided by [Material Design](https://m3.material.io/).
 Use official component kits provided by [IOS UIKit](https://developer.apple.com/documentation/uikit/).
 
-## Made with ❤️ at Callstack
+## Made with React Native Paper and React Native Ios KIT
 
 `react-native-paper-and-ios` is an open source project and will always remain free to use.
 
