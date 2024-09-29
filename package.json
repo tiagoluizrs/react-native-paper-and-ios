@@ -1,0 +1,33 @@
+{
+  "name": "react-native-paper-and-ios",
+  "version": "0.0.1",
+  "description": "Merging React Native Paper and React Native IOS KIT UIs. Both libraries were developed by the Callstack team. My job was just to merge them into one.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoluizrs/react-native-paper-and-ios.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "ios",
+    "android",
+    "material"
+  ],
+  "author": "Tiago Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagoluizrs/react-native-paper-and-ios/issues"
+  },
+  "homepage": "https://github.com/tiagoluizrs/react-native-paper-and-ios#readme",
+  "dependencies": {
+    "react-native": "^0.75.3",
+    "react-native-ios-kit": "^0.0.22",
+    "react-native-paper": "^5.12.5",
+    "react-native-safe-area-context": "^4.11.0",
+    "react-native-vector-icons": "^10.2.0"
+  }
+}
